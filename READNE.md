@@ -20,11 +20,14 @@
 
       java Main
 
+![image](https://github.com/user-attachments/assets/83e1b192-878e-44bb-9cfb-720ee4b18ee1)
+
+
 - To view the second panel , run this command
 
       java RegistrationForm
 
-
+![image](https://github.com/user-attachments/assets/3d098e0b-dc6f-4b3d-afce-b38df54cbb84)
 
 
 ### 2. Using an IDE
