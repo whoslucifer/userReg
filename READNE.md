@@ -14,7 +14,7 @@
 
 - Run this command to compile all the java classes at once
   
-      javac *
+      javac Main.java RegistrationForm.java
 
 - Run Main.class without the .class extension
 
