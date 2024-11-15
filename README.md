@@ -34,13 +34,14 @@
 
 - Open the folder where this repo was cloned with your IDE of choice
 
+- Run
+
 ![image](https://github.com/user-attachments/assets/a1807722-391d-4d38-a659-9e5d0580a939)
 
 ![image](https://github.com/user-attachments/assets/6821d93f-c2db-4533-a18a-1370f5ed5669)
 
 
-  
-- Run
+
 
 
  
